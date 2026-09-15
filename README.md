@@ -50,4 +50,4 @@ Real-estate and hospitality analytics project analyzing Airbnb listings across N
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-[View Project](<./Airbnb Listings Analysis>)
+[View Project](<./AirBnb Listings Analysis>)
