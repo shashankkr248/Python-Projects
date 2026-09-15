@@ -20,7 +20,7 @@ User analytics project analyzing app usage, session duration, screen views, purc
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-[View Project](<./Mobile App User Engagement>)
+[View Project](<./Mobile App User Engagement Analysis>)
 
 ---
 
