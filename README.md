@@ -1,6 +1,6 @@
 # Python Projects
 
-A collection of Python data analytics projects covering sales, e-commerce, mobile app engagement, real estate, automotive, and product analytics.
+A collection of Python data analytics projects focused on sales analytics, user engagement, product analytics, business analysis, exploratory data analysis, data cleaning, statistical analysis and data visualization.
 
 ## Projects
 
