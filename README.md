@@ -6,7 +6,7 @@ A collection of Python data analytics projects focused on sales analytics, user 
 
 ### 1. Diwali Sales Analysis
 
-Retail sales analysis project analyzing customer demographics, purchasing behavior, product categories, occupations, states, marital status, and sales performance.
+Retail sales analysis project analyzing customer demographics, purchasing behavior, product categories, occupations, states, marital status and sales performance.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
@@ -16,7 +16,7 @@ Retail sales analysis project analyzing customer demographics, purchasing behavi
 
 ### 2. Mobile App User Engagement Analysis
 
-User analytics project analyzing app usage, session duration, screen views, purchases, subscription types, churn risk, ratings, user logins, countries, and age groups.
+User analytics project analyzing app usage, session duration, screen views, purchases, subscription types, churn risk, ratings, user logins, countries and age groups.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
@@ -26,7 +26,7 @@ User analytics project analyzing app usage, session duration, screen views, purc
 
 ### 3. Apple iPhone Sales Analysis
 
-Product analytics project analyzing iPhone prices, discounts, ratings, reviews, specifications, and relationships between pricing and customer engagement.
+Product analytics project analyzing iPhone prices, discounts, ratings, reviews, specifications and relationships between pricing and customer engagement.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
 
@@ -36,7 +36,7 @@ Product analytics project analyzing iPhone prices, discounts, ratings, reviews, 
 
 ### 4. Blinkit Sales Analysis
 
-Retail analytics project analyzing sales performance across outlets, product categories, outlet types, outlet establishment years, and other business dimensions.
+Retail analytics project analyzing sales performance across outlets, product categories, outlet types, outlet establishment years and other business dimensions.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
@@ -46,7 +46,7 @@ Retail analytics project analyzing sales performance across outlets, product cat
 
 ### 5.  Airbnb Listings Analysis
 
-Real-estate and hospitality analytics project analyzing Airbnb listings across New York, including pricing, room types, neighborhoods, availability, reviews, ratings, and host information.
+Real-estate and hospitality analytics project analyzing Airbnb listings across New York, including pricing, room types, neighborhoods, availability, reviews, ratings and host information.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
